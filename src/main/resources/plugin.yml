@@ -1,0 +1,5 @@
+name: Feeria
+version: ${project.version}
+main: feeria.feeria.Feeria
+api-version: 1.16
+authors: [Taonix]
